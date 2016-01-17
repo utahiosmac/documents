@@ -1,0 +1,32 @@
+Welcome to the Utah iOS and Mac Developers Slack Team! Here's some info to get you started:
+
+First things first. You should introduce yourself in #introductions. Tell us a little bit about who you are and what you do. We also like it if people add a profile picture so we can tell who's who.
+
+We have a lot of different channels here. You should explore them and join those that interest you. A few to get you started:
+
+#lobby - General discussion about just about anything.
+#xcode - For help with, and discussions of Xcode and related tools.
+#swift - For discussion of Swift!
+#objc - For discussion of Objective-C!
+#radar - Post and discuss bugs you file with Apple (or the Swift team).
+#shipped - For announcing when you've shipped a cool new app, library, or other project.
+#jobs - For posting and finding job opportunities.
+#please-add - Post here to request that Utah iOS or Mac devleoper friends be invited to the team.
+
+Meetups: A number of us get together in person at various times. We coordinate through these channels:
+
+#monday-lunch - For lunch get togethers on Mondays (or other days).
+#cocoaheads-slc - Monthly CocoaHeads meetings in Salt Lake.
+#cocoaheads-uv - Monthly CocoaHeads meetings in Lehi.
+#nscoders-lehi - Weekly, casual meetups in Lehi.
+#nscoders-provo - Weekly, casual meetups in Provo.
+#uicoders-slc - Weekly, casual meetups in Salt Lake City.
+
+We don't have many rules. They basically are:
+
+- Be nice. This goes without saying, but we want this to be a friendly, inviting place.
+- This group is for Mac and iOS developers with a Utah connnection, whether you're a beginner or an expert. We like this to be a place free of recruiters and business types :).
+
+If you have a question, need assistance with the group, or need to report a problem, please contact one of the admins in a DM. The admins are: @armadsen, @dave, @bjhomer, @clifton, @bwhiteley, @marks, @miles, and @parker.
+
+Again, welcome!
