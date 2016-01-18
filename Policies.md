@@ -9,6 +9,8 @@
 
 ## General
 - Record all complaints from users, for posterity
+  - You can record the complaint here: https://www.icloud.com/numbers/000a4UlSpBXXd8oU7ed9DU82Q#Blank
+  - Ask the other admins if you forgot the password
 
 ## Removing Members
 - The decision to kick someone out of the group requires unanimous approval from all admins
