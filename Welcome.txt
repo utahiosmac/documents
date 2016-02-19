@@ -21,6 +21,7 @@ Meetups: A number of us get together in person at various times. We coordinate t
 #nscoders-lehi - Weekly, casual meetups in Lehi.
 #nscoders-provo - Weekly, casual meetups in Provo.
 #uicoders-slc - Weekly, casual meetups in Salt Lake City.
+#nscoders-logan - Weekly, casual meetups in Logan.
 
 We don't have many rules. They basically are:
 
