@@ -15,7 +15,7 @@ We have a lot of different channels here. You should explore them and join those
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
 
-#monday-lunch - For lunch get togethers on Mondays (or other days).
+#not-monday-lunch - For lunch get togethers on Mondays (or other days).
 #cocoaheads-slc - Monthly CocoaHeads meetings in Salt Lake.
 #cocoaheads-uv - Monthly CocoaHeads meetings in Lehi.
 #nscoders-lehi - Weekly, casual meetups in Lehi.
