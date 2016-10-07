@@ -15,10 +15,9 @@ We have a lot of different channels here. You should explore them and join those
 #meta - For questions or comments about the group itself.
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
-
-Occasional lunch get-togethers: #lehi-lunch, #slc-lunch, and #provo-orem-lunch
-CocoaHeads groups: #cocoaheads-uv and #cocoaheads-slc
-Weekly, casual meetups: #nscoders-lehi, #nscoders-provo, #uicoders-slc, and #nscoders-logan
+- Occasional lunch get-togethers: #lehi-lunch, #slc-lunch, and #provo-orem-lunch
+- CocoaHeads groups: #cocoaheads-uv and #cocoaheads-slc
+- Weekly, casual meetups: #nscoders-lehi, #nscoders-provo, #uicoders-slc, and #nscoders-logan
 
 We don't have many rules. They basically are:
 
