@@ -6,8 +6,8 @@ We have a lot of different channels here. You should explore them and join those
 
 #lobby - General discussion on just about anything.
 #xcode - For help with, and discussions of Xcode and related tools.
-#swift - For discussion of Swift!
-#objc - For discussion of Objective-C!
+#swift - For discussion of Swift! :swift:
+#code - For general programming questions.
 #radar - Post and discuss bugs you file with Apple (or the Swift team).
 #shipped - For announcing when you've shipped a cool new app, library, or other project.
 #jobs - For posting and finding job opportunities.
