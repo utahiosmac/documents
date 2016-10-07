@@ -4,7 +4,7 @@ First things first. You should introduce yourself in #introductions. Tell us a l
 
 We have a lot of different channels here. You should explore them and join those that interest you. A few to get you started:
 
-#lobby - General discussion about just about anything.
+#lobby - General discussion on just about anything.
 #xcode - For help with, and discussions of Xcode and related tools.
 #swift - For discussion of Swift!
 #objc - For discussion of Objective-C!
@@ -12,16 +12,13 @@ We have a lot of different channels here. You should explore them and join those
 #shipped - For announcing when you've shipped a cool new app, library, or other project.
 #jobs - For posting and finding job opportunities.
 #please-add - Post here to request that Utah iOS or Mac devleoper friends be invited to the team.
+#meta - For questions or comments about the group itself.
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
 
-#lehi-lunch - For lunch get togethers on Mondays (or other days).
-#cocoaheads-slc - Monthly CocoaHeads meetings in Salt Lake.
-#cocoaheads-uv - Monthly CocoaHeads meetings in Lehi.
-#nscoders-lehi - Weekly, casual meetups in Lehi.
-#nscoders-provo - Weekly, casual meetups in Provo.
-#uicoders-slc - Weekly, casual meetups in Salt Lake City.
-#nscoders-logan - Weekly, casual meetups in Logan.
+Occasional lunch get-togethers: #lehi-lunch, #slc-lunch, and #provo-orem-lunch
+CocoaHeads groups: #cocoaheads-uv and #cocoaheads-slc
+Weekly, casual meetups: #nscoders-lehi, #nscoders-provo, #uicoders-slc, and #nscoders-logan
 
 We don't have many rules. They basically are:
 
