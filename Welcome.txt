@@ -15,7 +15,7 @@ We have a lot of different channels here. You should explore them and join those
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
 
-#not-monday-lunch - For lunch get togethers on Mondays (or other days).
+#lehi-lunch - For lunch get togethers on Mondays (or other days).
 #cocoaheads-slc - Monthly CocoaHeads meetings in Salt Lake.
 #cocoaheads-uv - Monthly CocoaHeads meetings in Lehi.
 #nscoders-lehi - Weekly, casual meetups in Lehi.
@@ -28,6 +28,6 @@ We don't have many rules. They basically are:
 - Be nice. This goes without saying, but we want this to be a friendly, inviting place.
 - This group is for Mac and iOS developers with a Utah connnection, whether you're a beginner or an expert. We like this to be a place free of recruiters and business types :).
 
-If you have a question, need assistance with the group, or need to report a problem, please contact one of the admins in a DM. The admins are: @armadsen, @dave, @bjhomer, @clifton, @bwhiteley, @marks, @miles, and @parker.
+If you have a question, need assistance with the group, or need to report a problem, please contact one of the admins in a DM. The admins are: @armadsen, @dave, @bjhomer, @clifton, @bwhiteley, @marks, @miles, and @parker .
 
 Again, welcome!
