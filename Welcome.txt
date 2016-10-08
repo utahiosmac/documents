@@ -5,14 +5,14 @@ First things first. You should introduce yourself in #introductions. Tell us a l
 We have a lot of different channels here. You should explore them and join those that interest you. A few to get you started:
 
 #lobby - General discussion on just about anything.
-#xcode - For help with, and discussions of Xcode and related tools.
+#xcode - For help with, and discussions of Xcode and related tools. :xcode:
 #swift - For discussion of Swift! :swift:
 #code - For general programming questions.
-#radar - Post and discuss bugs you file with Apple (or the Swift team).
+#radar - Post and discuss bugs you file with Apple (or the Swift team). :radar: 
 #shipped - For announcing when you've shipped a cool new app, library, or other project.
 #jobs - For posting and finding job opportunities.
 #please-add - Post here to request that Utah iOS or Mac devleoper friends be invited to the team.
-#meta - For questions or comments about the group itself.
+#meta - For questions or comments about the group itself. :slack:
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
 - Occasional lunch get-togethers: #lehi-lunch, #slc-lunch, and #provo-orem-lunch
@@ -22,7 +22,6 @@ Meetups: A number of us get together in person at various times. We coordinate t
 There are also a whole bunch of specialized channels, like #politics, #religion, #holywar, #machine-learning, #marketing... Be sure to check out the full channel list.
 
 We don't have many rules. They basically are:
-
 - Be nice. This goes without saying, but we want this to be a friendly, inviting place.
 - This group is for Mac and iOS developers with a Utah connnection, whether you're a beginner or an expert. We like this to be a place free of recruiters and business types :).
 
