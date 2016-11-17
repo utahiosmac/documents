@@ -4,7 +4,7 @@
 - Members should be (or have been) residents of Utah
 - Members must be iOS developers (to any degree)
 - Members should provide their real names in their profiles
-- Members should be welcomed (https://gist.github.com/armadsen/a6ee42b5cca667e52206)
+- Members should be welcomed (https://github.com/utahiosmac/documents/blob/master/Welcome.txt)
   - we may eventually have a bot for this
 
 ## General
