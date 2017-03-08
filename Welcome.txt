@@ -11,8 +11,7 @@ We have a lot of different channels here. You should explore them and join those
 #radar - Post and discuss bugs you file with Apple (or the Swift team). :radar: 
 #shipped - For announcing when you've shipped a cool new app, library, or other project.
 #jobs - For posting and finding job opportunities.
-#please-add - Post here to request that Utah iOS or Mac devleoper friends be invited to the team.
-#meta - For questions or comments about the group itself. :slack:
+#meta - For questions or comments about the group itself. You can use this group to request that Utah iOS or Mac developer friends be invited to the team. :slack:
 
 Meetups: A number of us get together in person at various times. We coordinate through these channels:
 - Occasional lunch get-togethers: #lehi-lunch, #slc-lunch, and #provo-orem-lunch
