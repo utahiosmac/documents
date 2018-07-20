@@ -18,7 +18,7 @@ Meetups: A number of us get together in person at various times. We coordinate t
 - CocoaHeads groups: #cocoaheads-uv and #cocoaheads-slc
 - Weekly, casual meetups: #nscoders-lehi, #nscoders-orem, #uicoders-slc, and #nscoders-logan
 
-There are also a whole bunch of specialized channels, like #politics, #religion, #holywar, #machine-learning, #marketing... Be sure to check out the full channel list.
+There are also a whole bunch of specialized channels, like #politics, #religion, #holy-war, #machine-learning, #marketing ... Be sure to check out the full channel list.
 
 We don't have many rules. They basically are:
 - Be nice. This goes without saying, but we want this to be a friendly, inviting place.
